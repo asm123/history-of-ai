@@ -12,6 +12,8 @@ Alright, here we go! Los gehts!
 
 ## History of AI
 
+* `May 8, 2024`: Google DeepMind's AlphaFold 3 [predicts the structure and interactions of all of life’s molecules](https://www.nature.com/articles/s41586-024-07487-w)
+
 * `November 30, 2022`: OpenAI releases ChatGPT, a generative AI chatbot which leads to several tech orgnaizations launching a huge lineup of their own GenAI chatbots, integrating GenAI in their flagship products, basically [AI AI AI](https://www.youtube.com/watch?v=-P-ein58laA)!
 
 * `August 2009`: Dr. Fei Fei Li and team present [ImageNet](https://ieeexplore.ieee.org/document/5206848) at CVPR.
